@@ -1,0 +1,8 @@
+{
+  "name": "com.unitypackage.easysave3",
+  "displayName": "Easy Save 3",
+  "description": "Easy Save - The Complete Save Data & Serializer System",
+  "unity": "2019.4.38",
+  "dependencies": {},
+  "version": "3.5.20"
+}
